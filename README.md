@@ -9,7 +9,7 @@ Installation
 in your Gemfile:
 
 ```ruby
-gem 'rails_admin_histeroid', git: 'https://github.com/franc/rails_admin_histeroid.git'
+gem "rails_admin_histeroid", "~> 0.0.2"
 ```
 
 then run
