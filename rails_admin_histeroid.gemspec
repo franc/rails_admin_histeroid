@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = ["francois@rails.co.za"]
   s.homepage    = ""
   s.summary     = %q{a basic implementation of the history auditing of Rails Admin for Mongoid 3.1}
-  s.description = %q{TODO: Write a gem description}
+  s.description = %q{add support for Mongoid as a history auditing store to Rails Admin}
 
   s.rubyforge_project = "rails_admin_histeroid"
 
